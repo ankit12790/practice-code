@@ -2,8 +2,8 @@
 
 
 def game():
-    print("Welcome to the mind game romi!!! let's check you have brain or not:" )
-    name= input ("Enter your age romi: ")
+    print("Welcome to the mind game !!! let's check you have brain or not:" )
+    name= input ("Enter your age: ")
     print("Nice to meet you let's start the game romi don")
     print("Game is like i will keep one number between 1 to 20 and you need to guess exact number")
 
