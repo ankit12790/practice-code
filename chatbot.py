@@ -13,10 +13,10 @@ def chatbot():
             print("Am i alright how are you mother fucker")
 
         elif "bye" in userinput.lower():
-            print("Fuck you never come back you jerk")
+            print("Bye Bye have a good day")
             break
         else:
-            print("Fucky you is that a question you jerk????? ask me hard things")
+            print("What you is that a question you jerk????? ask me hard things")
 
 chatbot()
         
