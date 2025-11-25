@@ -16,7 +16,7 @@ def chatbot():
             print("Bye Bye have a good day")
             break
         else:
-            print("What you is that a question you jerk????? ask me hard things")
+            print("What is that a question you jerk????? ask me hard things")
 
 chatbot()
         
